@@ -1,6 +1,3 @@
-# goit-algo-fp
-goit-algo-fp
-
 ## Завдання 7
 # Висновки
 
